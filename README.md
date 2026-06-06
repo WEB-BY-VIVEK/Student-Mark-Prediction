@@ -15,9 +15,10 @@ The model uses Linear Regression to estimate the final marks of a student.
 
 ## Project Screenshot
 
-![Student Mark Prediction](screenshots/Screenshot%202026-06-06%20233103.png)
 
 ---
+![Student Mark Prediction](<screenshots/Screenshot 2026-06-06 235350.png>)
+
 
 ## Technologies Used
 
