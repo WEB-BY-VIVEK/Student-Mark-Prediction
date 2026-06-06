@@ -68,6 +68,6 @@ https://github.com/WEB-BY-VIVEK/Student-Mark-Prediction
 
 ## Author
 
-Vivek
+Vivek(24SCSE1040059), Pushkar Raj (24SCSE1040273)
 BCA Machine Learning Project
 
